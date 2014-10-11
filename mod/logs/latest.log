@@ -1,11 +1,32 @@
-[22:39:47] [main/INFO]: Setting user: Player241
-[22:39:49] [Client thread/INFO]: LWJGL Version: 2.9.1
-[22:39:55] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Lets Mod Reboot
-[22:39:56] [Sound Library Loader/INFO]: Sound engine started
-[22:39:56] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
-[22:39:56] [Client thread/INFO]: Created: 256x256 textures/items-atlas
-[22:39:56] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Lets Mod Reboot
-[22:39:57] [Client thread/INFO]: Created: 256x256 textures/items-atlas
-[22:39:57] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
-[22:39:58] [Sound Library Loader/INFO]: Sound engine started
-[22:40:47] [Client thread/INFO]: Stopping!
+[17:31:01] [main/INFO]: Setting user: Player229
+[17:31:03] [Client thread/INFO]: LWJGL Version: 2.9.1
+[17:31:09] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Lets Mod Reboot
+[17:31:10] [Sound Library Loader/INFO]: Sound engine started
+[17:31:10] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[17:31:10] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[17:31:10] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Lets Mod Reboot
+[17:31:10] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[17:31:11] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[17:31:12] [Sound Library Loader/INFO]: Sound engine started
+[17:31:16] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
+[17:31:16] [Server thread/INFO]: Generating keypair
+[17:31:17] [Server thread/INFO]: Preparing start region for level 0
+[17:31:18] [Server thread/INFO]: Changing view distance to 12, from 10
+[17:31:18] [Server thread/INFO]: Player229[local:E:efd8af36] logged in with entity id 267 at (4.853998333358538, 72.0, -26.425066501670674)
+[17:31:18] [Server thread/INFO]: Player229 joined the game
+[17:31:22] [Server thread/INFO]: Player229 has just earned the achievement [Taking Inventory]
+[17:31:22] [Client thread/INFO]: [CHAT] Player229 has just earned the achievement [Taking Inventory]
+[17:33:39] [Client thread/INFO]: Warning: Clientside chunk ticking took 165 ms
+[17:33:39] [Client thread/INFO]: Warning: Clientside chunk ticking took 226 ms
+[17:33:40] [Client thread/INFO]: Warning: Clientside chunk ticking took 150 ms
+[17:33:41] [Server thread/INFO]: Saving and pausing game...
+[17:33:41] [Server thread/INFO]: Saving chunks for level 'Test'/Overworld
+[17:33:41] [Server thread/INFO]: Saving chunks for level 'Test'/Nether
+[17:33:41] [Server thread/INFO]: Saving chunks for level 'Test'/The End
+[17:33:42] [Server thread/INFO]: Stopping server
+[17:33:42] [Server thread/INFO]: Saving players
+[17:33:42] [Server thread/INFO]: Saving worlds
+[17:33:42] [Server thread/INFO]: Saving chunks for level 'Test'/Overworld
+[17:33:42] [Server thread/INFO]: Saving chunks for level 'Test'/Nether
+[17:33:42] [Server thread/INFO]: Saving chunks for level 'Test'/The End
+[17:33:43] [Client thread/INFO]: Stopping!
